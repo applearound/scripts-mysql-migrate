@@ -1,4 +1,4 @@
-# A simple MySQL Table Migration Script
+# A simple MySQL table migration script
 
 Ship with official mysql.exe and mysqldump.exe, using PowerShell to execute.
 
