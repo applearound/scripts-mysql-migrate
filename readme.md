@@ -1,6 +1,6 @@
 # A simple MySQL Table Migration Script
 
-Ship With Official mysql.exe and mysqldump.exe, using PowerShell to execute.
+Ship with ffficial mysql.exe and mysqldump.exe, using PowerShell to execute.
 
 Version: 8.4.2
 
