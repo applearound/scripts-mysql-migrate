@@ -1,7 +1,9 @@
-# 一个简易的MySQL数据库全量迁移脚本
+# A simple MySQL Table Migration Script
 
-携带了MySQL官方的mysql.exe和mysqldump.exe，可在安装了PowerShell的系统中执行。
+Ship With Official mysql.exe and mysqldump.exe, using PowerShell to execute.
 
-版本为：8.4.2
+Version: 8.4.2
 
-因授权信息不明，请勿把该仓库当作开源项目看待。
+This is not a open source project due to unknow binary license.
+
+Just use it for convenience.
